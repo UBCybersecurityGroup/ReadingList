@@ -6,9 +6,7 @@
 | Feb 05, 2021 |Nishant Vishwamitra | [Towards Understanding and Detecting Cyberbullying in Real-world Images](https://cse.buffalo.edu/~hongxinh/papers/NDSS2021A.pdf)   | cyberbullying, multimodal classification, online offense detection                    |   NDSS    | 2021   |
 | Feb 05, 2021 |Wenbo Ding | [IoTSafe: Enforcing Safety and Security Policy with Real IoT Physical Interaction Discovery](https://cse.buffalo.edu/~hongxinh/papers/NDSS2021B.pdf) | IoT           |   NDSS    | 2021   |
 | Feb 12, 2021 |MD Armanuzzaman     | [PIE: A Dynamic TCB for Remote Systems with a Platform Isolation Environment](https://arxiv.org/pdf/2010.10416.pdf)  | TEE, Platform-wide attestation, RISC-V, Dynamic TCB |         arXiv                                                                                                                   |               2020                  |
-| Feb 19, 2021  |Feng Wei     | [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://people.cs.vt.edu/tekang/papers/sp20-odds.pdf)| GAN, Data Augmetation | S&P   |2020|
-
-
+| Feb 19, 2021  |Feng Wei     | [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://people.cs.vt.edu/tekang/papers/sp20-odds.pdf)| GAN, Data Augmetation | S&P   |2020
 | Feb 26, 2021  |Qiqing Huang |[PMP: Cost-effective Forced Execution with Probabilistic Memory Pre-planning](https://yonghwi-kwon.github.io/data/pmp_sp20.pdf)  | Forced Execution, Malware Analysis  | SP   | 2020
 |              |           |                                                                                                                              |                                 |
 |              |           |                                                                                                                              |                                 |
