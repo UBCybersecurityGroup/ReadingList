@@ -9,7 +9,7 @@
 | Feb 19, 2021  |Feng Wei     | [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://people.cs.vt.edu/tekang/papers/sp20-odds.pdf)| GAN, Data Augmetation | S&P   |2020
 | Feb 26, 2021  |Qiqing Huang |[PMP: Cost-effective Forced Execution with Probabilistic Memory Pre-planning](https://yonghwi-kwon.github.io/data/pmp_sp20.pdf)  | Forced Execution, Malware Analysis  | S&P   | 2020
 | Rescheduled |Xi Tan | [UTANGO: an open-source TEE for theInternet of Things](https://arxiv.org/pdf/2102.03625.pdf) | TEE, IoT, TrustZone, Arm | arXiv | 2021 |
-|              |           |                                                                                                                              |                                 |
+| March 19    |Xi Tan     | Part 1: SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems                                                                                                                              |                                 |
 |              |           |                                                                                                                              |                                 |
 |              |           |                                                                                                                              |                                 |
 |              |           |                                                                                                                              |                                 |
