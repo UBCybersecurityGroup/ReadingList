@@ -19,3 +19,4 @@
 |    After 06.06      |Qiqing Huang | [Understanding the mirai botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf) | Linux, Malware  |USENIX | 2017 | | |
 |   After 06.10       |Yunnan Yu | [Cracking the Wall of Confinement: Understanding and Analyzing Malicious Domain Take-downs](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-1_Alowaisheq_paper.pdf) |DNS, Domain Take-down   |NDSS | 2019 | | |
 | July 9, 2021 |Feng Wei | [CADE: Detecting and Explaining Concept Drift Samples for Security Applications](https://www.usenix.org/system/files/sec21summer_yang.pdf) |Concept Drift   |USENIX | 2021 | | |
+| July 16, 2021 |MD Armanuzzaman | [Securing software by enforcing data-flow integrity](https://static.usenix.org/event/osdi06/tech/full_papers/castro/castro.pdf) |Data flow integrity   |USENIX | 2006 | | |
