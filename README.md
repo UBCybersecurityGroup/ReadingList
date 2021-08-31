@@ -1,4 +1,8 @@
-# Reading Group Presentations
+# Reading Group Presentations - Fall 2021
+| Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
+|--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
+
+# Reading Group Presentations - Spring 2021
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 | Jan 26, 2021 |Xi Tan     | [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)    | AddressSanitizer, shadow memory |   USENIX  |   2012        | |
