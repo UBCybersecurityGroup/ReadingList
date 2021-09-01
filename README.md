@@ -17,8 +17,8 @@
 |Dec 3, 2021||||||||
 |Dec 10, 2021|Feng Wei|||||||
 |Dec 17, 2021||||||||
-|Dec 24, 2021||||||||
-|Dec 31, 2021||||||||
+|Dec 24, 2021|Christmas Eve|||||||
+|Dec 31, 2021|New Year|||||||
 
 # Reading Group Presentations - Spring 2021
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
