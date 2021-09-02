@@ -2,7 +2,7 @@
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |Sep 3, 2021| MD Armanuzzaman | [How to Make ASLR Win the Clone Wars: Runtime Re-Randomization](https://www-users.cse.umn.edu/~kjlu/papers/runtimeaslr.pdf) | ASLR, Pointer Tracking | NDSS| 2016 |||
-|Sep 10, 2021||||||||
+|Sep 10, 2021| Xi Tan         | [PTAuth: Temporal Memory Safety via Robust Points-to Authentication](https://www.usenix.org/system/files/sec21summer_mirzazade.pdf) |Cortex-A, Temporal memory safety, Pointer Authentication Code |USENIX | 2021 |||
 |Sep 17, 2021||||||||
 |Sep 24, 2021|Nishant|||||||
 |Oct 1, 2021|Yutian Yan|||||||
