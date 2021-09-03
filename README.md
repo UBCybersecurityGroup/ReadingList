@@ -3,7 +3,7 @@
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |Sep 3, 2021| MD Armanuzzaman | [How to Make ASLR Win the Clone Wars: Runtime Re-Randomization](https://www-users.cse.umn.edu/~kjlu/papers/runtimeaslr.pdf) | ASLR, Pointer Tracking | NDSS| 2016 | [Recording](https://buffalo.zoom.us/rec/play/58oc4G1DnQipI9V_t2S7kjcUKW3kXbNEKzkqF6DFGfc9fqP-uUe[…]TIXKmX.nQnIQ_PmEsrb2d-o?autoplay=true&startTime=1630684666000)|[Slides](https://docs.google.com/presentation/d/1C7ucdRiRsDDWPBs1CnOLnplJZNbmwdG9WhpbLqE7mD0/edit?usp=sharing)|
 |Sep 10, 2021| Xi Tan         | [PTAuth: Temporal Memory Safety via Robust Points-to Authentication](https://www.usenix.org/system/files/sec21summer_mirzazade.pdf) |Cortex-A, Temporal memory safety, Pointer Authentication Code |USENIX | 2021 |||
-|Sep 17, 2021||||||||
+|Sep 17, 2021|Wenbo Ding|||||||
 |Sep 24, 2021|Nishant|||||||
 |Oct 1, 2021|Yutian Yan|||||||
 |Oct 8, 2021||||||||
@@ -12,7 +12,7 @@
 |Oct 29, 2021| MD Armanuzzaman |||||||
 |Nov 5, 2021 | Nishant|||||||
 |Nov 12, 2021| Xi Tan |||||||
-|Nov 19, 2021||||||||
+|Nov 19, 2021|Wenbo Ding|||||||
 |Nov 26, 2021|-Fall Recess|-|-|-|-|-|-|
 |Dec 3, 2021|Qiqing Huang|||||||
 |Dec 10, 2021|Feng Wei|||||||
