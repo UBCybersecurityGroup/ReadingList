@@ -7,7 +7,7 @@
 |Sep 24, 2021|Nishant|[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)|backdoor|S&P|2022|[Recording](https://buffalo.zoom.us/rec/share/ehKKjBElL1Nhr-BIjCqKexQqQfE4U4xyYuovyGjsuO_NVCFPJ7xCI8Y6R-BrAbuV.1Wf3yPOuK4_nCdWB)|[Slides](https://buffalo.box.com/s/4u4rj4odzh06mg9emld0y4bwvl6egbww)|
 |Oct 1, 2021|Yutian Yan|[Everything Old is New Again: Binary Security of WebAssembly](https://www.usenix.org/system/files/sec20-lehmann.pdf)| WebAssembly, Control-Flow Integrity |USENIX|2020|[Recording](https://buffalo.zoom.us/rec/share/5f_KPiDqNRNU2say9YBTs8tuKR0YF7dA34bw9ONWH1lRdZcsAgnpX9UPV7b-Rzg.iis3wlBwbsCVuHPi)|[Slides](https://docs.google.com/presentation/d/1RGCRV6XWFIeppv1OM2f8dShU-ngdX0LZ/edit?usp=sharing&ouid=112871702526081907684&rtpof=true&sd=true)|
 |Oct 8, 2021| Zheyuan Ma | [Fast Execute-Only Memory for Embedded Systems](https://arxiv.org/pdf/2006.00076) | Cortex-M, Execute-Only Memory | IEEE SecDev | 2020 |[Recording](https://buffalo.zoom.us/rec/share/D3XG8k6DxisFdqqLp-gMpGAqi5ALiUtNqvjYntxIcvtoTkTHZmpIlmqJIseu1Jz2.rKN7wJdXri7uRbKX)|[Slides](https://docs.google.com/presentation/d/1ZLTS7e0BZjuPz53aoVLk3oVQo3lSs-O_nrqXtj2Zpfc/edit?usp=sharing)|
-|Oct 15, 2021|Feng Wei|||||||
+|Oct 15, 2021|Feng Wei|[Interpretable Deep Learning under Fire](https://www.usenix.org/system/files/sec20spring_zhang_prepub.pdf)|USENIX|20||||
 |Oct 22, 2021|Qiqing Huang|||||||
 |Oct 29, 2021| MD Armanuzzaman |||||||
 |Nov 5, 2021 | Nishant|||||||
