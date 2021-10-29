@@ -9,7 +9,7 @@
 |Oct 8, 2021| Zheyuan Ma | [Fast Execute-Only Memory for Embedded Systems](https://arxiv.org/pdf/2006.00076) | Cortex-M, Execute-Only Memory | IEEE SecDev | 2020 |[Recording](https://buffalo.zoom.us/rec/share/D3XG8k6DxisFdqqLp-gMpGAqi5ALiUtNqvjYntxIcvtoTkTHZmpIlmqJIseu1Jz2.rKN7wJdXri7uRbKX)|[Slides](https://docs.google.com/presentation/d/1ZLTS7e0BZjuPz53aoVLk3oVQo3lSs-O_nrqXtj2Zpfc/edit?usp=sharing)|
 |Oct 15, 2021|Feng Wei|[Interpretable Deep Learning under Fire](https://www.usenix.org/system/files/sec20spring_zhang_prepub.pdf)|XAI, Machine Learning, Explanation|USENIX|2020|||
 |Oct 22, 2021|Qiqing Huang|[Privacy-Preserving and Standard-Compatible AKA Protocol for 5G](https://www.usenix.org/system/files/sec21fall-wang-yuchen.pdf)|5G-AKA protocol, Privacy|USENIX|2021|[Recording](https://buffalo.zoom.us/rec/share/TvB7oYVKbv3Y-ohV_Tq2Y_d7O_lmHgZSXonCNRAUTLxpmIGx02BDG-V_WA4eZ_Ze.zK19G8-laGfOanEx)|[Slides](https://prezi.com/view/HJ6P1F2Y8orEeskeLBOi)|
-|Oct 29, 2021| MD Armanuzzaman |[The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series FPGAs](https://www.usenix.org/system/files/sec20-ender.pdf)| FPGA, Encrypted Bitstream attack|USENIX|2020|||
+|Oct 29, 2021| MD Armanuzzaman |[The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series FPGAs](https://www.usenix.org/system/files/sec20-ender.pdf)| FPGA, Encrypted Bitstream attack|USENIX|2020|[Recording](https://buffalo.zoom.us/rec/share/CbNZmwo1YFNNqxLPoYUZZXsa4My5T-OeJOa25SD_8CTDiLwrUimEqAExgBW986z2.PZ5dlX505dbdtAYE)|[Slides](https://docs.google.com/presentation/d/1szOFTB8LOzx-jBUwVMQ6A3051arbJmkWLqf5ercdGA8/edit?usp=sharing)|
 |Nov 5, 2021 | Nishant|||||||
 |Nov 12, 2021| Xi Tan |||||||
 |Nov 19, 2021|Wenbo Ding|||||||
