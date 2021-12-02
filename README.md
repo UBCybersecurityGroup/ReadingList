@@ -14,7 +14,7 @@
 |Nov 12, 2021| Xi Tan |||||||
 |Nov 19, 2021|Wenbo Ding|||||||
 |Nov 26, 2021|-Fall Recess|-|-|-|-|-|-|
-|Dec 3, 2021|Qiqing Huang|||||||
+|Dec 3, 2021|Qiqing Huang|[Programmable In-Network Security for Context-aware BYOD Policies](https://www.usenix.org/system/files/sec20-kang.pdf)|BYOD programmable in-network|USENIX|2020||https://prezi.com/view/W1bCcC0Jr4Jy4opypZbc|
 |Dec 10, 2021|Feng Wei|||||||
 |Dec 17, 2021|Zheyuan Ma|||||||
 |Dec 24, 2021|Christmas Eve|-|-|-|-|-|-|
