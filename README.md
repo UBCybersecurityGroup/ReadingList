@@ -12,7 +12,7 @@
 |Oct 29, 2021| MD Armanuzzaman |[The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series FPGAs](https://www.usenix.org/system/files/sec20-ender.pdf)| FPGA, Encrypted Bitstream attack|USENIX|2020|[Recording](https://buffalo.zoom.us/rec/share/CbNZmwo1YFNNqxLPoYUZZXsa4My5T-OeJOa25SD_8CTDiLwrUimEqAExgBW986z2.PZ5dlX505dbdtAYE)|[Slides](https://docs.google.com/presentation/d/1szOFTB8LOzx-jBUwVMQ6A3051arbJmkWLqf5ercdGA8/edit?usp=sharing)|
 |Nov 5, 2021 | Nishant|[SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://mdbailey.ece.illinois.edu/publications/oakland21_hatesok.pdf)|online hate, harassment, cybercrime|IEEE S&P|2022|[Recording](https://buffalo.zoom.us/rec/share/NoUmMAd7EZzpfyfMPPfmJnVM9x1P7WzTuJ07JxQ7lg5wMaEh_yfLktBrHR8UBk5z.1Vf_nbBr3MLdTqfj)|[Slides](https://buffalo.box.com/s/y9g7d30sffo4yrkjcseh3pn09wmee6wp)|
 |Nov 12, 2021| Xi Tan |||||||
-|Nov 19, 2021|Wenbo Ding|||||||
+|Nov 19, 2021|Wenbo Ding|[Data Privacy in Trigger-Action Systems](https://arxiv.org/abs/2012.05749)|IEEE S&P 21||[Slides](https://docs.google.com/presentation/d/1ZICeNSTr2uOKyLH6IHYWzkLRD5y-w0WP/edit?usp=sharing&ouid=110059534096006382482&rtpof=true&sd=true)|||
 |Nov 26, 2021|-Fall Recess|-|-|-|-|-|-|
 |Dec 3, 2021|Qiqing Huang|[Programmable In-Network Security for Context-aware BYOD Policies](https://www.usenix.org/system/files/sec20-kang.pdf)|BYOD programmable in-network|USENIX|2020||https://prezi.com/view/W1bCcC0Jr4Jy4opypZbc|
 |Dec 10, 2021|Feng Wei|||||||
