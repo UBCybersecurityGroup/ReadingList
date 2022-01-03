@@ -2,6 +2,30 @@
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |Jan 7, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Jan 14, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Jan 21, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Jan 28, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Feb 4, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Feb 11, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Feb 18, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Feb 25, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Mar 4, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Mar 11, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Mar 18, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Mar 25, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Apr 1, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Apr 8, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Apr 15, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Apr 22, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Apr 29, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|May 6, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|May 13, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|May 22, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|May 27, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Jun 3, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Jun 10, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Jun 17, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
+|Jun 24, 2022|  | [Paper title](Link) | Topics | Conference| Year published | [Recording](Link)|[Slides](Link)|
 
 
 # Reading Group Presentations - Fall 2021
