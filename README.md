@@ -22,10 +22,10 @@
 |May 13, 2022| Xi Tan <br> Qiqing Huang | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
 |May 20, 2022| Yutian Yan <br> Nishant | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
 |May 27, 2022| Keyan Guo <br> MD Armanuzzaman | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
-|Jun 3, 2022| Feng Wei <br> Qiqing Huang | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
+|Jun 3, 2022|  <br> Qiqing Huang | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
 |Jun 10, 2022| Yutian Yan <br> Zheyuan Ma | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
 |Jun 17, 2022| Nishant <br> Wenbo Ding | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
-|Jun 24, 2022| Keyan Guo <br> MD Armanuzzaman | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
+|Jun 24, 2022| Feng Wei <br> MD Armanuzzaman | [Paper title1](Link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year published1 <br> Year published2 | [Recording1](Link) <br> [Recording2](Link) |[Slides1](Link) <br> [Slides2](Link)|
 
 
 
