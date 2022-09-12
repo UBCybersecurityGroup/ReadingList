@@ -3,7 +3,7 @@
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |Sep 02, 2022| Presenter 1 <br> Presenter2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year
 |Sep 09, 2022| Zheyuan Ma <br> Xi Tan | [Paper title1](link) <br> [DirtyCred: Escalating Privilege in Linux Kernel](Link) | Topics1 <br> OS Security; Kernel Exploitation; Privilege Escalation | Conference1 <br> CCS | Year <br> 2022 
-|Sep 16, 2022| Feng Wei <br> Qiqing Huang | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year
+|Sep 16, 2022|  <br> Qiqing Huang | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year
 |Sep 23, 2022| MD Armanuzzaman <br> Keyan Guo | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year 
 |Sep 30, 2022| Safayat Hakim <br> Wenbo Ding | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year
 |Oct 07, 2022| Xi Tan <br>  Presenter2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year 
