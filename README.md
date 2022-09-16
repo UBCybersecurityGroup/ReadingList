@@ -3,7 +3,7 @@
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |Sep 02, 2022| Presenter 1 <br> Presenter2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year
 |Sep 09, 2022| Zheyuan Ma <br> Xi Tan | [PAC it up: Towards Pointer Integrity using ARM Pointer Authentication](https://www.usenix.org/system/files/sec19fall_liljestrand_prepub.pdf) <br> [DirtyCred: Escalating Privilege in Linux Kernel](Link) | Pointer Authentication <br> OS Security; Kernel Exploitation; Privilege Escalation | USENIX Security <br> CCS | 2019 <br> 2022 
-|Sep 16, 2022| Qiqing Huang | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year
+|Sep 16, 2022| Qiqing Huang | [Touching the Untouchables Dynamic Security Analysis of the LTE Control Plane](link) <br> [Paper title2](Link) | LTE/5G <br> Topics2 | S&P <br> Conference2 | 2019
 |Sep 23, 2022| MD Armanuzzaman <br> Wenbo Ding | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year 
 |Sep 30, 2022| Safayat Hakim <br> Keyan Guo | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year
 |Oct 07, 2022| Xi Tan <br>  Presenter2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year 
