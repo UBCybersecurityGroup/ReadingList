@@ -9,7 +9,7 @@
 |Oct 07, 2022| Xi Tan <br>  Keyan Guo | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
 |Oct 14, 2022| Qiqing Huang <br> Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
 |Oct 21, 2022| Feng Wei <br> Presenter 2| [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
-|Oct 28, 2022| MD Armanuzzaman <br>  Safayat Hakim| [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
+|Oct 28, 2022| MD Armanuzzaman <br>  Safayat Hakim| [Paper title1](link) <br> [𝜇AFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
 |Nov 04, 2022| Xi Tan <br> Wenbo Ding | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
 |Nov 11, 2022| Keyan Guo <br> Zheyaun Ma | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
 |Nov 18, 2022| Feng Wei <br> Safayat Hakim| [Paper_title1](link) <br> [Fat Pointers for Temporal Memory Safety of C](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)
