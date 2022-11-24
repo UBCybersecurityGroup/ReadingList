@@ -14,7 +14,7 @@
 |Nov 11, 2022|Presenter 1 <br>  Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
 |Nov 18, 2022|  Presenter 1 <br>  Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
 |Nov 25, 2022| MD Armanuzzaman <br> Qiqing Huang | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
-|Dec 02, 2022| Xi Tan <br> Feng Wei | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
+|Dec 02, 2022| Xi Tan <br>  | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
 |Dec 09, 2022| Keyan Guo <br> Wenbo Ding | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
 |Dec 16, 2022| Zheyuan Ma <br> Qiqing Huang | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
 |Dec 23, 2022| MD Armanuzzaman <br> Feng Wei | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording](link) | [Slides](link)|
