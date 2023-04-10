@@ -19,7 +19,7 @@
 |Apr 28, 2023| Xi Tan <br> Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)|
 |May 5, 2023| Keyan Guo <br> Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)|
 |May 12, 2023| Presenter 1 <br> Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)|
-|May 19, 2023| Presenter 1 <br> Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)|
+|May 19, 2023| Wenbo Ding <br> Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)|
 |May 26, 2023| MD Armanuzzaman <br> Presenter 2 | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)|
 |Jun 2, 2023| Qiqing Huang <br> Keyan Guo | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)|
 
