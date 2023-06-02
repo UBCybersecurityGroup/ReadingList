@@ -1,4 +1,4 @@
-# Reading Group Presentations - Spring 2023
+# Reading Group Presentations - Summer 2023
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |June 9, 2023| Gaoxiang Liu | [Paper title](link) | Topics | Conference | Year | [Recording](link) | [Slides](link) |
