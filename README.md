@@ -2,9 +2,9 @@
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |June 9, 2023| Gaoxiang Liu | [On the effectiveness of address-space randomization](https://dl.acm.org/doi/10.1145/1030083.1030124) | Topics | CCS | 2004 | [Recording](link) | [Slides](link) |
-|June 16, 2023| Qiqing Huang | Formal verification learning session | Formal Verification | Conference | Year | [Recording](link) | [Slides](link) |
+|June 16, 2023| No meeting this week |  | | | | |  |
 |June 23, 2023| No meeting this week |  | | | | |  |
-|June 30, 2023| Xi Tan | [EC: Embedded Systems Compartmentalization via Intra-Kernel Isolation](https://www.computer.org/csdl/proceedings-article/sp/2023/933600c990/1Nrc0irhBLy) | Topics | SP | 2023 | [Recording](link) | [Slides](link) |
+|June 30, 2023| Qiqing Huang | Formal verification learning session | Formal Verification | Conference | Year | [Recording](link) | [Slides](link) |
 |July 07, 2023| Zheyuan Ma | Glitching learning session 1 | Topics | Conference | Year | [Recording](link) | [Slides](link) |
 |July 14, 2023| Keyan Guo | Transformer models learning session | Topics | Conference | Year | [Recording](link) | [Slides](link) |
 |July 21, 2023| Gaoxiang Liu | [C2C: Fine-grained Configuration-driven System Call Filtering](https://dl.acm.org/doi/abs/10.1145/3548606.3559366) | Topics | CCS | 2022 | [Recording](link) | [Slides](link) |
