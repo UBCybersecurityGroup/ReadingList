@@ -5,7 +5,7 @@
 |June 16, 2023| No meeting this week |  | | | | |  |
 |June 23, 2023| No meeting this week |  | | | | |  |
 |June 30, 2023| Qiqing Huang | Formal verification learning session | Formal Verification | Conference | Year | [Recording](link) | [Slides](link) |
-|July 07, 2023| Zheyuan Ma | Glitching learning session 1 | Topics | Conference | Year | [Recording](link) | [Slides](link) |
+|July 07, 2023| No meeting this week |  | | | | |  |
 |July 14, 2023| Keyan Guo | Transformer models learning session | Topics | Conference | Year | [Recording](link) | [Slides](link) |
 |July 21, 2023| Gaoxiang Liu | [C2C: Fine-grained Configuration-driven System Call Filtering](https://dl.acm.org/doi/abs/10.1145/3548606.3559366) | Topics | CCS | 2022 | [Recording](link) | [Slides](link) |
 |July 28, 2023| Xi Tan | [Low-Cost Privilege Separation with Compile Time Compartmentalization for Embedded Systems](https://www.computer.org/csdl/proceedings-article/sp/2023/933600d008/1Nrc0jdfOKs) | Topics | SP | 2023 | [Recording](link) | [Slides](link) |
