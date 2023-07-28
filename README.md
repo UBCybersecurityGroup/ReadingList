@@ -9,7 +9,7 @@
 |July 14, 2023| Keyan Guo | Transformer models learning session | Topics | Conference | Year | [Recording](link) | [Slides](link) |
 |July 21, 2023| Gaoxiang Liu | [C2C: Fine-grained Configuration-driven System Call Filtering](https://dl.acm.org/doi/abs/10.1145/3548606.3559366) | Topics | CCS | 2022 | [Recording](link) | [Slides](link) |
 |July 28, 2023| Xi Tan | [Microarchitectural Timing Attacks on Microcontrollers are Practical](https://github.com/Mr-xn/BLACKHAT_Asia2023/blob/main/AS-23-Pinto-Hand-Me-Your-Secret-MCU.pdf)) | Microcontrollers, Side-channel attack | blackhat asia | 2023 | [Recording](link) | [Slides](link) |
-|August 04, 2023| MD Armanuzzaman | [ARI: Attestation of Real-time Mission Execution Integrity](https://www.usenix.org/conference/usenixsecurity23/presentation/wangjinwen) | Topics | Usenix Security | 2023 | [Recording](link) | [Slides](link) |
+|August 04, 2023| MD Armanuzzaman | [GPU Architecture and Programming Interface]() | Topics | NA | NA | [Recording](link) | [Slides](link) |
 |August 11, 2023| Keyan Guo | ChatGPT learning session | Topics | Conference | Year | [Recording](link) | [Slides](link) |
 |August 18, 2023| Qiqing Huang | [A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846) | 5G AKA | CCS | 2018 | [Recording](link) | [Slides](link) |
 |August 23, 2023| Zheyuan Ma | Glitching learning session 2 | Topics | Conference | Year | [Recording](link) | [Slides](link) |
