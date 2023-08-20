@@ -16,7 +16,7 @@
 |August 04, 2023| MD Armanuzzaman | [GPU Architecture and Programming Interface]() | Topics | NA | NA | [Recording](link) | [Slides](https://docs.google.com/presentation/d/1j9COu4bqjQDaYvUqjLnGpjAMjsQLO3Hrsw9uB9JYFtM/edit?usp=sharing) |
 |August 11, 2023| No meeting this week |  | | | | |  |
 |August 18, 2023| Qiqing Huang | [A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846) | 5G AKA | CCS | 2018 | [Recording](link) | [Slides](link) |
-|August 25, 2023| Zheyuan Ma | Glitching learning session 2 | Topics | Conference | Year | [Recording](link) | [Slides](link) |
+|August 25, 2023| - | AIxCC kick-off meeting | AIxCC | - | 2023 | [Recording](link) | [Slides](link) |
 
 ## Previous presentation
 - **[2023spring presentations](history/2023spring.md)**
