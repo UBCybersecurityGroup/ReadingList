@@ -14,7 +14,7 @@
 |Nov 3, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 10, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 17, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Nov 24, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|Nov 24, 2023 Thanksgiving Break | Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Dec 1, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Dec 8, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 
