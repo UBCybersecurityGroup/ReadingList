@@ -14,9 +14,9 @@
 |Nov 3, 2023| Zheyuan | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 10, 2023| Gaoxiang | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 17, 2023| Tomal | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Nov 24, 2023 Thanksgiving Break | Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Dec 1, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Dec 8, 2023| Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|Nov 24, 2023 Thanksgiving Break (tentative) | Presenter | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|Dec 1, 2023| Rupam | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|Dec 8, 2023| Alex | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 
 
 ## Previous presentation
