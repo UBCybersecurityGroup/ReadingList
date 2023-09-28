@@ -8,8 +8,8 @@
 |Sep 22, 2023| Qiqing| [Look Before You Leap: Secure Connection Bootstrapping for 5G Networks to Defend Against Fake Base-Stations](https://dl.acm.org/doi/pdf/10.1145/3433210.3453082) | 5G FBS | asiaCCS | 2021 | [Recording](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c193f75a-2eed-44cb-9043-b085012cfcf5) | [Slides](https://docs.google.com/presentation/d/1GFv7RebNfweekVWJJmsyhdzqGZYZEYvabAJ5IrVXrDc/edit?usp=sharing) |
 |Sep 29, 2023| Keyan | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Oct 6, 2023| Gaoxiang | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Oct 13, 2023| Zheyuan <br> Isabelle | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year|[Recording1](link) | [Slides](link) |
-|Oct 20, 2023| Qiqing | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|Oct 13, 2023| Zheyuan <br> Isabelle | [Paper title1](link) <br> [Paper title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2|[Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link)  |
+|Oct 20, 2023| Qiqing <br> Alex | [Paper title1](link) <br> [Paper title2](link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link)  <br> [Recording1](link) | [Slides1](link) <br> [Slides2](link) |
 |Oct 27, 2023| Keyan | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 3, 2023| Zheyuan | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 10, 2023| Gaoxiang | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
