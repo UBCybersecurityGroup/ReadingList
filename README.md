@@ -8,8 +8,7 @@
 |Sep 22, 2023| Qiqing| [Look Before You Leap: Secure Connection Bootstrapping for 5G Networks to Defend Against Fake Base-Stations](https://dl.acm.org/doi/pdf/10.1145/3433210.3453082) | 5G FBS | asiaCCS | 2021 | [Recording](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c193f75a-2eed-44cb-9043-b085012cfcf5) | [Slides](https://docs.google.com/presentation/d/1GFv7RebNfweekVWJJmsyhdzqGZYZEYvabAJ5IrVXrDc/edit?usp=sharing) |
 |Sep 29, 2023| Attend to Colloquium Talk |  | |  |  |  | |
 |Oct 6, 2023| Alex | Fuzzing Learning Session | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Oct 13, 2023| Isabelle <br> Gaoxiang| [Paper title1](link) <br> [Demystifying Pointer Authentication on Apple M1
-](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)| Topics1 <br> Pointer Authentication | Conference1 <br> USENIX | Year1 <br> 2023|[Recording1](link) <br> [Recording2](link)  | [Slides1](link) <br> [Slides2](link) |
+|Oct 13, 2023| Isabelle <br> Gaoxiang| [Paper title1](link) <br> [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)| Topics1 <br> Pointer Authentication | Conference1 <br> USENIX | Year1 <br> 2023|[Recording1](link) <br> [Recording2](link)  | [Slides1](link) <br> [Slides2](link) |
 | (AIxCC) Oct 20, 2023| Akarshi, Bhanu <br> Alex | [Paper title1](link) <br> [Paper title2](link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link)  <br> [Recording1](link) | [Slides1](link) <br> [Slides2](link) |
 |Oct 27, 2023| Keyan <br> MD Armanuzzaman | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |(AIxCC) Nov 3, 2023| Pending | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
