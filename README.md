@@ -12,8 +12,7 @@
 | (AIxCC) Oct 20, 2023| Akarshi, Bhanu <br> Alex | [Paper title1](link) <br> [Paper title2](link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link)  <br> [Recording1](link) | [Slides1](link) <br> [Slides2](link) |
 |Oct 27, 2023| Keyan <br> MD Armanuzzaman | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |(AIxCC) Nov 3, 2023| Zheyuan | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|(AIxCC) Nov 17, 2023|  | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Nov 10, 2023| Gaoxiang, Qiqing | [Paper1 title1](link)  <br> [Paper title2](Link) | Topics1 <br> Topics2| Conference1 <br> Conference2| Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link) |
+|Nov 10, 2023| Gaoxiang <br> Qiqing | [Paper1 title1](link)  <br> [Paper title2](Link) | Topics1 <br> Topics2| Conference1 <br> Conference2| Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link) |
 |(AIxCC) Nov 17, 2023| Tomal | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 24, 2023 Thanksgiving Break |No meeting this week |  | | | | |  | |
 |(AIxCC) Dec 1, 2023| Rupam | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
