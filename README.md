@@ -9,7 +9,7 @@
 |Sep 29, 2023| Attend to Colloquium Talk |  | |  |  |  | |
 |Oct 6, 2023| Alex | Fuzzing Learning Session | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Oct 13, 2023| Isabelle <br> Gaoxiang| [Trojan Source:Invisible Vulnerabilities](https://browse.arxiv.org/pdf/2111.00169.pdf) <br> [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)| Vulnerability <br> Pointer Authentication | Usenix Security <br> Usenix Security | 2023 <br> 2023|[Recording1](link) <br> [Recording2](link)  | [Slides1](link) <br> [Slides2](link) |
-| (AIxCC) Oct 20, 2023| Akarshi, Bhanu <br> Alex | [Paper title1](link) <br> [Paper title2](link) | Topics1 <br> Topics2 | Conference1 <br> Conference2 | Year1 <br> Year2 | [Recording1](link)  <br> [Recording1](link) | [Slides1](link) <br> [Slides2](link) |
+| (AIxCC) Oct 20, 2023| Akarshi, Bhanu <br> Alex | [Paper title1](link) <br> [Universal Fuzzing via Large Language Models](https://arxiv.org/pdf/2308.04748.pdf) | Topics1 <br> AIxCC | Conference1 <br> arXiv | Year1 <br> 2023 | [Recording1](link)  <br> [Recording1](link) | [Slides1](link) <br> [Slides2](link) |
 |Oct 27, 2023| Keyan <br> MD Armanuzzaman | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |(AIxCC) Nov 3, 2023| Rupam | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 10, 2023| Gaoxiang <br> Qiqing | [Paper1 title1](link)  <br> [Paper title2](Link) | Topics1 <br> Topics2| Conference1 <br> Conference2| Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link) |
