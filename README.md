@@ -12,7 +12,7 @@
 | (AIxCC) Oct 20, 2023| Akarshi, Bhanu <br> Alex | [Paper title1](link) <br> [Universal Fuzzing via Large Language Models](https://arxiv.org/pdf/2308.04748.pdf) | Topics1 <br> AIxCC | Conference1 <br> arXiv | Year1 <br> 2023 | [Recording1](link)  <br> [Recording1](link) | [Slides1](link) <br> [Slides2](link) |
 |Oct 27, 2023| Keyan <br> MD Armanuzzaman | [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693) | LLM, fine-tuning, unsafe generation | Conference | Year | [Recording1](link) | [Slides](link) |
 |(AIxCC) Nov 3, 2023| Rupam <br> Shubhankar | [Paper1 title1](link) <br> [Paper2 title2](Link) | Topics1 <br> Topics2 | Conference1 <br> Conference2| Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides](link) <be> [Slides2](link) |
-|Nov 10, 2023| Gaoxiang <br> Qiqing | [Paper1 title1](link)  <br> [Paper title2](Link) | Topics1 <br> Topics2| Conference1 <br> Conference2| Year1 <br> Year2 | [Recording1](link) <br> [Recording2](link) | [Slides1](link) <br> [Slides2](link) |
+|Nov 10, 2023| Gaoxiang  | [Paper title1](link)  | Topics | Conference1 | Year | [Recording](link)| [Slides](link)  |
 |(AIxCC) Nov 17, 2023| Keyan | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Nov 24, 2023 Thanksgiving Break |No meeting this week |  | | | | |  | |
 |(AIxCC) Dec 1, 2023| Rupam | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
