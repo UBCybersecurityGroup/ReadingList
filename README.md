@@ -13,9 +13,9 @@
 |Oct 27, 2023| Keyan | [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693) | LLM, fine-tuning, unsafe generation | Conference | Year | [Recording](https://buffalo.zoom.us/rec/share/03zM0Qffz1LfrgezzliauZIZ5COBAHhKnKD9LSIQD9tqfFCPyWANTMAbrTRlQ180.ywoVG4P2gcYCPspl) | [Slides](https://drive.google.com/file/d/1MxHCQfypZP7sJrcjM0iYPqQnZairpJkh/view?usp=sharing) |
 |(AIxCC) Nov 3, 2023| Rupam <br> Shubhankar | [Large Language Model guided Protocol Fuzzing](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf) <br> [Large Language Models for Code: Security Hardening and Adversarial Testing](https://arxiv.org/pdf/2302.05319.pdf) | LLM, Fuzzing <br> LLM, Testing | NDSS <br> ICML| 2024 <br> 2023 | [Recording1](https://buffalo.zoom.us/rec/share/dXJ5SafwVqEh_KfBoNkytrVhI1ri7ty-jSjCAeCBqm5GDLUMHNarfXDx86dCyDV0.wlGKAAKq6xlZKiGs) <br> [Recording2](https://buffalo.zoom.us/rec/share/RFAKsm-TYCvLCJnI8craz6WWMDnkZ08ukTOlNbGeZNc4vxtmX44eaco2uEXeaSf1.exnLuBa3ocRkVfJQ) | [Slides](link) <be> [Slides2](link) |
 |Nov 10, 2023| MD Armanuzzaman  | [μRAI: Securing Embedded Systems with Return Address Integrity](https://nebelwelt.net/files/20NDSS.pdf)  | Return Address Integrity | NDSS | 2020 | [Recording](https://drive.google.com/drive/folders/1UhDknz8bqqCNyJP0caUi0YHP6wVeyN5a?usp=sharing)| [Slides](link)  |
-|(AIxCC) Nov 17, 2023| Isabelle | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|(AIxCC) Nov 17, 2023| Isabelle | [VSP: Exploring Software Vulnerability Analysis via Vulnerability-Semantics-Guided Prompting Large Language Models](link) | Topics | Conference | Year | [Recording](https://buffalo.zoom.us/rec/share/NfQh4DGGLcwsWzwrBUV6RmIO6WaQCNp2eJhkWRZVqxom7WbwbNZoUzlZF_N4D0wQ.JTcbBQzZe93E6j4L) | [Slides](link) |
 |Nov 24, 2023 Thanksgiving Break |No meeting this week |  | | | | |  | |
-|(AIxCC) Dec 1, 2023| Rupam | [Paper title1](link) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|(AIxCC) Dec 1, 2023| Rupam | [CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models](https://arxiv.org/pdf/2302.04012.pdf) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
 |Dec 8, 2023| Alex  | [Paper title](link)  | Topics | Conference  | Year|||
 
 
