@@ -15,7 +15,7 @@
 |Nov 10, 2023| MD Armanuzzaman  | [μRAI: Securing Embedded Systems with Return Address Integrity](https://nebelwelt.net/files/20NDSS.pdf)  | Return Address Integrity | NDSS | 2020 | [Recording](https://drive.google.com/drive/folders/1UhDknz8bqqCNyJP0caUi0YHP6wVeyN5a?usp=sharing)| [Slides](link)  |
 |(AIxCC) Nov 17, 2023| Isabelle | [VSP: Exploring Software Vulnerability Analysis via Vulnerability-Semantics-Guided Prompting Large Language Models](link) | Topics | Conference | Year | [Recording](https://buffalo.zoom.us/rec/share/NfQh4DGGLcwsWzwrBUV6RmIO6WaQCNp2eJhkWRZVqxom7WbwbNZoUzlZF_N4D0wQ.JTcbBQzZe93E6j4L) | [Slides](link) |
 |Nov 24, 2023 Thanksgiving Break |No meeting this week |  | | | | |  | |
-|(AIxCC) Dec 1, 2023| Rupam | [CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models](https://arxiv.org/pdf/2302.04012.pdf) | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
+|(AIxCC) Dec 1, 2023| Rupam | [CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models](https://arxiv.org/pdf/2302.04012.pdf) | Topics | Conference | Year | [Recording1](https://buffalo.zoom.us/rec/share/KdnGmHJSxwridnRb6kOInDUecFYI7zHiqgibDQY3g6lPJwotudh_F-aYzmAgAUKn.9tn_xBjCS74luQmv) | [Slides](link) |
 |Dec 8, 2023| Alex  | [Paper title](link)  | Topics | Conference  | Year|||
 
 
