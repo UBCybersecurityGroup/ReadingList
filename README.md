@@ -16,7 +16,7 @@
 |(AIxCC) Nov 17, 2023| Isabelle | [VSP: Exploring Software Vulnerability Analysis via Vulnerability-Semantics-Guided Prompting Large Language Models](link) | Topics | Conference | Year | [Recording](https://buffalo.zoom.us/rec/share/NfQh4DGGLcwsWzwrBUV6RmIO6WaQCNp2eJhkWRZVqxom7WbwbNZoUzlZF_N4D0wQ.JTcbBQzZe93E6j4L) | [Slides](link) |
 |Nov 24, 2023 Thanksgiving Break |No meeting this week |  | | | | |  | |
 |(AIxCC) Dec 1, 2023| Rupam | [CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models](https://arxiv.org/pdf/2302.04012.pdf) | Topics | Conference | Year | [Recording1](https://buffalo.zoom.us/rec/share/KdnGmHJSxwridnRb6kOInDUecFYI7zHiqgibDQY3g6lPJwotudh_F-aYzmAgAUKn.9tn_xBjCS74luQmv) | [Slides](link) |
-|Dec 8, 2023| Alex  | [Paper title](link)  | Topics | Conference  | Year|||
+|Dec 8, 2023| Alex  | [The Hitchhiker’s Guide to Program Analysis: A Journey with Large Language Models](https://arxiv.org/pdf/2308.00245.pdf)  | Topics | arXiv  | 2023|[Recording](https://buffalo.zoom.us/rec/share/QEUzTG7YA_vZpq9dMfTgwJdEuqjaCrcl7G0_xDJKO9FQQ9kfKzvL_q1Mia1nWVQA.mZARJNF1B5e96B8z) ||
 
 
 ## Previous presentation
