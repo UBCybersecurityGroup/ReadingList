@@ -22,7 +22,7 @@
 
 
 ## Previous presentation
-- **[2024fall presentations](history/2023fall.md)**
+- **[2023fall presentations](history/2023fall.md)**
 - **[2023summer presentations](history/2023summer.md)**
 - **[2023spring presentations](history/2023spring.md)**
 - **[2022fall presentations](history/2022fall.md)**
