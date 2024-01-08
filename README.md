@@ -1,25 +1,28 @@
-# Reading Group Presentations - Fall 2023
+# Reading Group Presentations - Spring 2024
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
-|August 25, 2023| - | AIxCC kick-off meeting | AIxCC | - | 2023 | [Recording](link) | [Slides](link) |
-|Sep 1, 2023| Dr. Zhao | how to succeed and fail as a PhD student | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Sep 6, 2023| Zheyuan | Timing Side-Channel Analysis Demo | side-channel | - | - | [Recording](https://buffalo.zoom.us/rec/share/l19dLOffwguSP0XAF8pgSbo8USgj-lyvZ8CEjG23MZJfsZ_TXw3dar18Eb0E2vN6.cZGScEwn-T-4kBb4?startTime=1694025177000) | [Code](https://github.com/newaetech/chipwhisperer-jupyter/blob/master/courses/sca101/Lab%202_1B%20-%20Power%20Analysis%20for%20Password%20Bypass%20(MAIN).ipynb) |
-|Sep 15, 2023| No meeting this week |  | | | | |  | |
-|Sep 22, 2023| Qiqing| [Look Before You Leap: Secure Connection Bootstrapping for 5G Networks to Defend Against Fake Base-Stations](https://dl.acm.org/doi/pdf/10.1145/3433210.3453082) | 5G FBS | asiaCCS | 2021 | [Recording](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c193f75a-2eed-44cb-9043-b085012cfcf5) | [Slides](https://docs.google.com/presentation/d/1GFv7RebNfweekVWJJmsyhdzqGZYZEYvabAJ5IrVXrDc/edit?usp=sharing) |
-|Sep 29, 2023| Attend to Colloquium Talk |  | |  |  |  | |
-|Oct 6, 2023| Alex | Fuzzing Learning Session | Topics | Conference | Year | [Recording1](link) | [Slides](link) |
-|Oct 13, 2023| Isabelle <br> Gaoxiang| [Trojan Source:Invisible Vulnerabilities](https://browse.arxiv.org/pdf/2111.00169.pdf) <br> [Demystifying Pointer Authentication on Apple M1](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)| Vulnerability <br> Pointer Authentication | Usenix Security <br> Usenix Security | 2023 <br> 2023|[Recording](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=382f38ba-21d5-4899-8a40-b09a014f387d)  | [Slides1](link) <br> [Slides2](link) |
-| (AIxCC) Oct 20, 2023| Alex | [Universal Fuzzing via Large Language Models](https://arxiv.org/pdf/2308.04748.pdf) | AIxCC |  arXiv | 2023 | [Recording](https://buffalo.zoom.us/rec/share/sk_9scmiqqV7M3Pojs2W2FJnNUajYoWaLrf2RcF9RrnDD8l8fxEEkTygweVe8cux.IdRn_rjE6KLL7SAd?startTime=1697823533000) | [Slides1](link) <br> [Slides2](link) |
-|Oct 27, 2023| Keyan | [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693) | LLM, fine-tuning, unsafe generation | Conference | Year | [Recording](https://buffalo.zoom.us/rec/share/03zM0Qffz1LfrgezzliauZIZ5COBAHhKnKD9LSIQD9tqfFCPyWANTMAbrTRlQ180.ywoVG4P2gcYCPspl) | [Slides](https://drive.google.com/file/d/1MxHCQfypZP7sJrcjM0iYPqQnZairpJkh/view?usp=sharing) |
-|(AIxCC) Nov 3, 2023| Rupam <br> Shubhankar | [Large Language Model guided Protocol Fuzzing](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf) <br> [Large Language Models for Code: Security Hardening and Adversarial Testing](https://arxiv.org/pdf/2302.05319.pdf) | LLM, Fuzzing <br> LLM, Testing | NDSS <br> ICML| 2024 <br> 2023 | [Recording1](https://buffalo.zoom.us/rec/share/dXJ5SafwVqEh_KfBoNkytrVhI1ri7ty-jSjCAeCBqm5GDLUMHNarfXDx86dCyDV0.wlGKAAKq6xlZKiGs) <br> [Recording2](https://buffalo.zoom.us/rec/share/RFAKsm-TYCvLCJnI8craz6WWMDnkZ08ukTOlNbGeZNc4vxtmX44eaco2uEXeaSf1.exnLuBa3ocRkVfJQ) | [Slides](link) <be> [Slides2](link) |
-|Nov 10, 2023| MD Armanuzzaman  | [μRAI: Securing Embedded Systems with Return Address Integrity](https://nebelwelt.net/files/20NDSS.pdf)  | Return Address Integrity | NDSS | 2020 | [Recording](https://drive.google.com/drive/folders/1UhDknz8bqqCNyJP0caUi0YHP6wVeyN5a?usp=sharing)| [Slides](link)  |
-|(AIxCC) Nov 17, 2023| Isabelle | [VSP: Exploring Software Vulnerability Analysis via Vulnerability-Semantics-Guided Prompting Large Language Models](link) | Topics | Conference | Year | [Recording](https://buffalo.zoom.us/rec/share/NfQh4DGGLcwsWzwrBUV6RmIO6WaQCNp2eJhkWRZVqxom7WbwbNZoUzlZF_N4D0wQ.JTcbBQzZe93E6j4L) | [Slides](link) |
-|Nov 24, 2023 Thanksgiving Break |No meeting this week |  | | | | |  | |
-|(AIxCC) Dec 1, 2023| Rupam | [CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models](https://arxiv.org/pdf/2302.04012.pdf) | Topics | Conference | Year | [Recording1](https://buffalo.zoom.us/rec/share/KdnGmHJSxwridnRb6kOInDUecFYI7zHiqgibDQY3g6lPJwotudh_F-aYzmAgAUKn.9tn_xBjCS74luQmv) | [Slides](link) |
-|Dec 8, 2023| Alex  | [The Hitchhiker’s Guide to Program Analysis: A Journey with Large Language Models](https://arxiv.org/pdf/2308.00245.pdf)  | Topics | arXiv  | 2023|[Recording](https://buffalo.zoom.us/rec/share/QEUzTG7YA_vZpq9dMfTgwJdEuqjaCrcl7G0_xDJKO9FQQ9kfKzvL_q1Mia1nWVQA.mZARJNF1B5e96B8z) ||
+|January 12, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|January 19, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|January 26, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|February 2, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|February 9, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|February 16, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|February 23, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|March 1, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|March 8, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|March 15, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|March 22, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|March 29, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|April 5, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|April 12, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|April 19, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|April 26, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|May 3, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|May 10, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 
 
 ## Previous presentation
+- **[2024fall presentations](history/2023fall.md)**
 - **[2023summer presentations](history/2023summer.md)**
 - **[2023spring presentations](history/2023spring.md)**
 - **[2022fall presentations](history/2022fall.md)**
