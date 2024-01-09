@@ -2,13 +2,13 @@
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |January 12, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
-|(AIxCC) January 19, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|(AIxCC) January 19, 2024| Alex |  |  |  || [Recording](link) | [Slides](link) |
 |January 26, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) February 2, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |February 9, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) February 16, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
-|February 23, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
-|(AIxCC) March 1, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|February 23, 2024| Tomal |  |  |  || [Recording](link) | [Slides](link) |
+|(AIxCC) March 1, 2024| Alex |  |  |  || [Recording](link) | [Slides](link) |
 |March 8, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) March 15, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |March 22, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
