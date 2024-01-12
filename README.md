@@ -1,7 +1,6 @@
 # Reading Group Presentations - Spring 2024
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
-|January 12, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) January 19, 2024| Alex |  |  |  || [Recording](link) | [Slides](link) |
 |January 26, 2024| Xi Tan |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) February 2, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
