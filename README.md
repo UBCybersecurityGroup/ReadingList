@@ -3,7 +3,7 @@
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |January 12, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) January 19, 2024| Alex |  |  |  || [Recording](link) | [Slides](link) |
-|January 26, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|January 26, 2024| Xi Tan |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) February 2, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |February 9, 2024| Zheyuan |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) February 16, 2024| Isabelle |  |  |  || [Recording](link) | [Slides](link) |
