@@ -2,9 +2,9 @@
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
 |(AIxCC) January 19, 2024| Alex |  |  |  || [Recording](https://buffalo.zoom.us/rec/share/TzYzIQuHvPze93MmAk4cSO0ardKE1K5vB23NTBRWO5U6AVG3RtqfK1VfVsTlHaGJ.Znplg4UyATUos23P) | [Slides](https://drive.google.com/file/d/1N_oF-2bUlBT5I8a7gL2cX6UpLIGN_r61/view?usp=drive_link) |
-|January 26, 2024| Xi Tan |  |  |  || [Recording](link) | [Slides](link) |
+|January 26, 2024| Xi Tan Mock Interview |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) February 2, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
-|February 9, 2024| Zheyuan |  |  |  || [Recording](link) | [Slides](link) |
+|February 9, 2024| Xi Tan Proposal |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) February 16, 2024| Isabelle |  |  |  || [Recording](link) | [Slides](link) |
 |February 23, 2024| Tomal |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) March 1, 2024| Alex |  |  |  || [Recording](link) | [Slides](link) |
