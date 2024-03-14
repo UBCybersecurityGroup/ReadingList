@@ -12,7 +12,7 @@
 |(AIxCC) March 15, 2024| Rupam |  |  |  || [Recording](link) | [Slides](link) |
 |March 22, 2024| Qiqing|  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) March 29, 2024| Isabelle |  |  |  || [Recording](link) | [Slides](link) |
-|April 5, 2024| Zheyuan  <br> Keyan |  |  |  || [Recording](link) | [Slides](link) |
+|April 5, 2024| Keyan |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) April 12, 2024| Rupam |  |  |  || [Recording](link) | [Slides](link) |
 |April 19, 2024| Gaoxiang |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) April 26, 2024| Isabelle |  |  |  || [Recording](link) | [Slides](link) |
