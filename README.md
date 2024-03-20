@@ -8,9 +8,9 @@
 |(AIxCC) February 16, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |February 23, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) March 1, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
-|March 8, 2024| Gaoxiang |  |  |  || [Recording](link) | [Slides](link) |
-|(AIxCC) March 15, 2024| Rupam |  |  |  || [Recording](link) | [Slides](link) |
-|March 22, 2024| Qiqing|  |  |  || [Recording](link) | [Slides](link) |
+|March 8, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
+|(AIxCC) March 15, 2024| Rupam | Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Application | AI Security | 2024 || [Recording](https://buffalo.zoom.us/rec/share/l9K2sw23Q-KVpgkPjZH2Z3wL0jqZyaNFZKx2tNjl_8v4Scyy0FLQ_Ic7VguxkDiq.hoHbVgR8TxQ1iCzN) | [Slides](link) |
+|March 22, 2024| Qiqing| 5G-Spector: An O-RAN Compliant Layer-3 Cellular Attack Detection Service | 5G Security | 2024 || [Recording](link) | [Slides](link) |
 |(AIxCC) March 29, 2024| Isabelle |  |  |  || [Recording](link) | [Slides](link) |
 |April 5, 2024| Keyan |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) April 12, 2024| Rupam |  |  |  || [Recording](link) | [Slides](link) |
