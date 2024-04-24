@@ -14,8 +14,8 @@
 |(AIxCC) March 29, 2024| Isabelle | EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought | arXiv | 2023 || [Recording](https://buffalo.zoom.us/rec/share/DvffXIctslxEIPPKg6W2ZaTJcqJe7u-oeYdrVyntAGt9iQCl4H6b7kD_xoTh1YQn.FcMDdpFIs4_8sZaX) | [Slides](link) |
 |April 5, 2024| Keyan | The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning!| LLM, alignment, in-context learning |ICLR | 2024| [Recording](link) | [Slides](https://ubuffalo-my.sharepoint.com/:p:/r/personal/keyanguo_buffalo_edu/Documents/The_Unlocking_Spell_on_Base_LLMs.pptx?d=w231a4deeb19a418e939a5fe285de6917&csf=1&web=1&e=CPxx3A) |
 |(AIxCC) April 12, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
-|April 19, 2024| Gaoxiang |  |  |  || [Recording](link) | [Slides](link) |
-|(AIxCC) April 26, 2024| Isabelle |  |  |  || [Recording](link) | [Slides](link) |
+|April 19, 2024|   |  |  |  || [Recording](link) | [Slides](link) |
+|(AIxCC) April 26, 2024|  |  |  |  || [Recording](link) | [Slides](link) |
 |May 3, 2024| Qiqing |  |  |  || [Recording](link) | [Slides](link) |
 |(AIxCC) May 10, 2024| Keyan  |  |  |  || [Recording](link) | [Slides](link) |
 
